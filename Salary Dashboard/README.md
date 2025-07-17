@@ -1,5 +1,5 @@
 # Median Salary Dashboard for IT Jobs
-![Demonstration]("Salary Dashboard\pictures\How does it work.gif")
+![How does it work.gif]("Salary Dashboard/pictures/How does it work.gif")
 
 ## Introduction
 
