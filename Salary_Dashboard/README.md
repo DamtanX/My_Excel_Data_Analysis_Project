@@ -1,5 +1,5 @@
 # Median Salary Dashboard for IT Jobs
-![Demonstration]("Salary Dashboard\pictures\How does it work.gif")
+![Howdoesitwork.gif](Salary_Dashboard/pictures/Howdoesitwork.gif)
 
 ## Introduction
 
@@ -11,7 +11,7 @@ His YouTube account reference: [Luke](https://www.youtube.com/@LukeBarousse)
 
 ### Dashboard File
 
-The completed dashboard can be found in the file: [Salary Dashboard(project #1).xlsx]("Salary Dashboard\Salary Dashboard(project #1).xlsx")
+The completed dashboard can be found in the file: [Salary Dashboard(project #1).xlsx](Salary_Dashboard/Salary Dashboard(project #1).xlsx)
 
 ### Excel Skills Applied
 
