@@ -1,5 +1,5 @@
 # Median Salary Dashboard for IT Jobs
-![How does it work.gif]("Salary Dashboard/pictures/How does it work.gif")
+![How_does_it_work.gif]()
 
 ## Introduction
 
@@ -11,7 +11,7 @@ His YouTube account reference: [Luke](https://www.youtube.com/@LukeBarousse)
 
 ### Dashboard File
 
-The completed dashboard can be found in the file: [Salary Dashboard(project #1).xlsx]("Salary Dashboard\Salary Dashboard(project #1).xlsx")
+The completed dashboard can be found in the file: [Salary Dashboard(project #1).xlsx](Salary Dashboard/Salary Dashboard(project #1).xlsx)
 
 ### Excel Skills Applied
 
@@ -33,7 +33,7 @@ The dataset used in this analysis features real job listings in the data science
 ## Dashboard
 **Data Jobs Median Salaries - Bar Chart**
 
-!["Bar Chart Job Titles.png"](Salary Dashboard\pictures\Bar Chart Job Titles.png)
+!["Bar Chart Job Titles.png"](Salary Dashboard/pictures/barchart_JT.png)
 
 1. **Excel Tools Used:** Employed bar charts with formatted salary labels and a clean, user-friendly layout.
 
@@ -43,7 +43,7 @@ The dataset used in this analysis features real job listings in the data science
 
 **Median Salaries by Country - Map Chart**
 
-!["map chart.gif"](Salary Dashboard\pictures\map chart.gif)
+!["map chart.gif"](Salary Dashboard/pictures/map chart.gif)
 
 1. **Excel Tools Used:** Used Excel’s map chart to display median salaries by country.
 
