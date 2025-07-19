@@ -5,7 +5,7 @@ Key Questions Explored
 
 ### To gain meaningful insights into the data science job landscape, I focused on the following questions:
 
-1. Does having more skills translate to higher pay?
+1. Do More Skills Lead to Higher Pay?
 2. How do data job salaries vary by region?
 3. What are the most in-demand skills among data professionals?
 4. What is the salary range for the top 10 skills?
@@ -31,7 +31,7 @@ This project uses a dataset of real-world data science job listings from 2023, s
 - **Countries**
 - **Technical skills**
 
-### Do More Skills Lead to Higher Pay?
+## 1_Do More Skills Lead to Higher Pay?
 ### Focus Skill: Power Query (ETL)
 
 **Extract**  
@@ -42,3 +42,31 @@ To begin, I used Power Query to import the original dataset (data_salary_all.xls
 
  **Transform** 
 Next, I cleaned and refined both datasets by adjusting column types, removing irrelevant fields, standardizing the text (e.g., trimming whitespace and removing unwanted phrases), and preparing the data for deeper analysis.
+
+ - **data_jobs_all Steps:**  
+ 
+  ![data_jobs_all_steps.png](pictures/data_jobs_all_steps.png)
+
+- **data_jobs_skills Steps:**  
+
+![data_jobs_all_steps.png](pictures/data_jobs_skills_steps.png)
+
+**Finally, I loaded the cleaned and structured queries into the workbook, laying the groundwork for the analysis that followed.**
+
+- **data_jobs_all Data:**  
+ 
+  ![data_jobs_all_steps.png](pictures/data_jobs_all_PQ.png)
+
+- **data_jobs_skills Data:**  
+
+![data_jobs_all_steps.png](pictures/data_jobs_skills_PQ.png)
+
+### Analysis  
+
+![salary-skill_dependency.png](pictures/salary-skill_dependency.png)
+
+**Insights**
+- Job postings that list a greater number of required skills generally offer higher median salaries—especially for roles such as Senior Data Engineer and Data Scientist.
+- In contrast, positions demanding fewer skills, like Business Analyst, are typically associated with lower salaries, indicating that specialized expertise tends to yield higher compensation in the job market.
+
+## 2_How do data job salaries vary by region?
