@@ -73,14 +73,16 @@ The dataset used in this analysis features real job listings in the data science
 - **Formula Role:** Fills the table with the median salary corresponding to the chosen job title, country, and schedule type.
 **Source Table**
   ![bgtable.png](pictures/bgtable.png)  
-(Chart illustration shown above)
+  (Bar Chart illustration shown above)
 
 **Count of Jobs specified by title, country and schedule type**
 ```
 =COUNTIFS(jobs[job_title_short], mytitle, jobs[job_country], mycountry, jobs[job_schedule_type], mytype)
 ```
-- **Method:** The Excel function =COUNTIFS() allows you to filter a large number of job listings based on specific fields such as Job Title, Country, and Schedule Type. As a result, it provides the exact count of jobs that match the given criteria.
-**Implementation:**
+- **Method:** The Excel function =COUNTIFS() allows you to filter a large number of job listings based on specific fields such as Job Title, Country, and Schedule Type. As a result, it provides the exact count of jobs that match the given criteria.  
+
+**Implementation:**  
+
   ![column_chart.png](pictures/column_chart.png)
 ### Data Validation
  **Improved Data Validation:** A filtered list is applied as a data validation rule for the Job Title, Country, and Schedule Type fields in the Data tab. This approach:
