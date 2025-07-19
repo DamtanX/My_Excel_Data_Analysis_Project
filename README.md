@@ -49,3 +49,7 @@ By combining structured data modeling, DAX calculations, and visual storytelling
 Check out it here: [Data_Analysis](Data_Analysis)
 
 ![proj2_interaction.gif](Data_Analysis/pictures/proj2_interaction.gif)
+
+# Special Thanks 
+
+I would like to extend my sincere thanks to Luke Barousse for offering a comprehensive Data Analyst course and sharing a rich dataset with his subscribers, including myself. His content was instrumental in building my understanding of **Excel's** role in **Data Analysis** and served as the foundation for this project. I also want to acknowledge ChatGPT, which provided valuable support and guidance throughout the development of this project.
